@@ -8,4 +8,5 @@ class QuarentenaApplication
 
 fun main(args: Array<String>) {
 	runApplication<QuarentenaApplication>(*args)
+
 }
